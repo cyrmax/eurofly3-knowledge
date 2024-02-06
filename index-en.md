@@ -1,5 +1,7 @@
 # Main page
 
+Translation updated on 2024-02-04 and may not include latest changes.
+
 Welcome to the Eurofly 3 knowledge database website.
 
 If you want to contribute a new knowledge or make a translation open this website as a repository by clicking [here](https://github.com/cyrmax/eurofly3-knowledge).
