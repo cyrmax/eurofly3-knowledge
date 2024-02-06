@@ -30,3 +30,12 @@
 * [Спецификации самолётов](airplanes-specifications/index.md);
 * [Новости о переводе игры на русский](when-in-russian.md);
 * [Известные ошибки и баги](known-bugs.md);
+
+## Контакты автора сайта
+
+Можно писать на русском, английском или венгерском языке.
+
+* [Telegram @cyrmax](https://t.me/cyrmax);
+* [E-mail](mailto:cyrmax@internet.ru);
+* [Youtube-канал "Cyrmax Кирилл Белоусов"](https://www.youtube.com/@cyrmax6318);
+* [Github @cyrmax](https://github.com/cyrmax);
