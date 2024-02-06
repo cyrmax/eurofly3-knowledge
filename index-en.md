@@ -25,6 +25,7 @@ The author of this website or repository, Kirill Belousov aka Cyrmax, is not the
 
 ## Help materials and guides
 
+* [Youtube playlist with Eurofly 3 tutorials in english](https://www.youtube.com/playlist?list=PL9tBtevRcDWyKLP6wPIqUfSVPplB9k5kM);
 * [Full list of game hotkeys](hotkeys.md), for now only in russian;
 * [Random gameplay tips](random-tips.md) for now only in russian;
 * [Airplanes specifications](airplanes-specifications/index.md) for now only in russian;

@@ -25,6 +25,7 @@
 
 ## Справочные материалы и гайды
 
+* [Плейлист с обучающими видео на русском](https://www.youtube.com/playlist?list=PLXpINrMPy0QelC6EgVmOgCUBW1szwhWks);
 * [Полный список сочетаний клавиш](hotkeys.md);
 * [Случайные советы по игровому процессу](random-tips.md);
 * [Спецификации самолётов](airplanes-specifications/index.md);
