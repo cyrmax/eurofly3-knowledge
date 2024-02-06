@@ -26,5 +26,16 @@ The author of this website or repository, Kirill Belousov aka Cyrmax, is not the
 ## Help materials and guides
 
 * [Full list of game hotkeys](hotkeys.md), for now only in russian;
+* [Random gameplay tips](random-tips.md) for now only in russian;
+* [Airplanes specifications](airplanes-specifications/index.md) for now only in russian;
 * [News about translating Eurofly 3 to russian](when-in-russian.md);
 * [Known bugs and errors](known-bugs.md), for now only in russian;
+
+## Website author contacts
+
+You can write in english, russian or hungarian.
+
+* [Telegram @cyrmax](https://t.me/cyrmax);
+* [E-mail](mailto:cyrmax@internet.ru);
+* [Youtube channel "Cyrmax Kirill Belousov"](https://www.youtube.com/@cyrmax6318) (The most part of videos in russian);
+* [Github @cyrmax](https://github.com/cyrmax);
